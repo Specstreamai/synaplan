@@ -24,6 +24,7 @@ final class WebSearchHosting
         'exa' => 'US',
         'firecrawl' => 'US',
         'perplexity' => 'US',
+        'specstream' => 'FR',
     ];
 
     public static function selfHosted(string $provider): bool
